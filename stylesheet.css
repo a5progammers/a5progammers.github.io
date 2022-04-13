@@ -46,7 +46,7 @@ header {
     height: 40px;
     margin-left: 550px;
     margin-top: 5px;
-    /*position: fixed;*/
+    position: fixed;
 }
 
 .header-left {
